@@ -1,6 +1,6 @@
 {
   "name": "revogrid-dropdown-conflict-stack-error",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@revolist/react-datagrid": "^4.28.0",
